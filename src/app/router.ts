@@ -1,13 +1,12 @@
 import express from 'express'
 
-import bundler from './controllers/bundlerController'
+import bundler from '@controllers/bundlerController'
 
 class Router {
     public router : express.Router
 
     constructor () {
       this.router = express.Router()
-
       this.bundlers()
     }
 
