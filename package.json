@@ -1,0 +1,18 @@
+{
+  "name": "bundler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jeffer-coder <jefersoncoder@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.5.0",
+    "@typescript-eslint/parser": "^5.5.0",
+    "eslint": "7.12.1",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "2.22.1",
+    "eslint-plugin-node": "11.1.0",
+    "eslint-plugin-promise": "4.2.1",
+    "typescript": "^4.5.2"
+  },
+  "dependencies": {}
+}
